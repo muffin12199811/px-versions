@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "changelog": [
+    "Blocked unsafe music links",
+    "Booth updates only sent to nearby players",
+    "Admin saves no longer restart every booth"
+  ]
+}

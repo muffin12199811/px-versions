@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "changelog": [
+    "Stashes locked to their placed points",
+    "Fixed double withdraw",
+    "Plant updates only sent to nearby players"
+  ]
+}

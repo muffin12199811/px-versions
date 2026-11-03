@@ -1,0 +1,7 @@
+{
+  "version": "1.1.0",
+  "changelog": [
+    "Fixed bag stash staying open after the bag was given or dropped",
+    "Cuffed/downed players can no longer open bags"
+  ]
+}

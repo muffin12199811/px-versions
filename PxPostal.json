@@ -1,0 +1,8 @@
+{
+  "version": "1.2.0",
+  "changelog": [
+    "Van keys locked to your own crew van",
+    "Parcel must be collected before a stop pays",
+    "Delivering no longer deletes attached props"
+  ]
+}

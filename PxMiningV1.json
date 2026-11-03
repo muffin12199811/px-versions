@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "changelog": [
+    "Ore rocks now only spawn near players",
+    "Fixed multi-rock payout exploit",
+    "Fewer server round trips per action"
+  ]
+}

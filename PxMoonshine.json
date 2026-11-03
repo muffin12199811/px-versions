@@ -1,0 +1,8 @@
+{
+  "version": "4.2.0",
+  "changelog": [
+    "Fixed start-up crash on Linux hosts",
+    "XP cached, far fewer SQL queries",
+    "Lighter world sync and UI refresh"
+  ]
+}

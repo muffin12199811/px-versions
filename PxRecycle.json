@@ -1,0 +1,8 @@
+{
+  "version": "2.4.0",
+  "changelog": [
+    "XP/stat saves batched",
+    "Fixed route soft-lock on rejected finish",
+    "Fixed double deposit on fast start"
+  ]
+}
