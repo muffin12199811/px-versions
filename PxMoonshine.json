@@ -1,7 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "changelog": [
-    "XP cached, far fewer SQL queries",
-    "Lighter world sync and UI refresh"
+    "Fixed issues with client.lua and server.lua with custom menu ui exports"
   ]
 }
