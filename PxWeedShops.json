@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "changelog": [
-    "Stashes locked to their placed points",
-    "Fixed double withdraw",
-    "Plant updates only sent to nearby players"
+    "cleaned up some code and ui",
+    "added weed vapes bongs and dab rigs",
+    "mlo weed pot support"
   ]
 }
